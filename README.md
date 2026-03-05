@@ -97,8 +97,6 @@ python contacts_manager.py
 
 ## 📂 Project Structure
 
-    python-mini-projects/
-    │
     ├── todo_list.py
     ├── calculator.py
     ├── password_generator.py
@@ -107,8 +105,8 @@ python contacts_manager.py
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
-**Bharath Kalyan P**
+**Anandh V**
 
 ⭐ If you like this project, consider giving it a star!
