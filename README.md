@@ -11,7 +11,7 @@ programming logic, problem solving, and basic application development.
 2.  🧮 Simple Calculator\
 3.  🔐 Password Generator\
 4.  ✊ Rock Paper Scissors Game\
-5.  📇 Contacts Management System
+5.  📇 Contacts Information System
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ tasks
 **Run**
 
 ``` bash
-python todo_list.py
+python todo.py
 ```
 
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ symbols
 **Run**
 
 ``` bash
-python password_generator.py
+python password.py
 ```
 
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Play Rock Paper Scissors against the computer.
 **Run**
 
 ``` bash
-python rock_paper_scissors.py
+python RPS.py
 ```
 
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ contact list
 **Run**
 
 ``` bash
-python contacts_manager.py
+python contact.py
 ```
 
 ------------------------------------------------------------------------
@@ -97,11 +97,11 @@ python contacts_manager.py
 
 ## 📂 Project Structure
 
-    ├── todo_list.py
+    ├── todo.py
     ├── calculator.py
-    ├── password_generator.py
-    ├── rock_paper_scissors.py
-    └── contacts_manager.py
+    ├── password.py
+    ├── RPS.py
+    └── contact.py
 
 ------------------------------------------------------------------------
 
